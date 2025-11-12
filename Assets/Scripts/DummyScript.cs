@@ -7,7 +7,7 @@ public class DummyScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // THIS IS AN EXAMPPLE OF A CHANGE 
+        // THIS IS AN EXAMPLE OF A CHANGE 
         //Illustration 2 
         
     }
